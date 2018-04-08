@@ -1,4 +1,3 @@
-# Team 5: Dawei Jia/ Siqi Zhi/ Yufei Jiang/ Cenli Han/ Jinchuan Yang
 ########################         Part1: Data Management          #####################################################################
 
 #a) load data and save as data frame
